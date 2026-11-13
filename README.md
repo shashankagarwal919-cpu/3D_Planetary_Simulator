@@ -46,7 +46,7 @@ Prerequisites
 
 Clone the Repository
 
-git clone https://github.com/shashankagarwal919/3D_Planetary_Simulator.git
+git clone https://github.com/shashankagarwal919-cpu/3D_Planetary_Simulator.git
 cd 3D_Planetary_Simulator
 
 Compile and Run
