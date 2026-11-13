@@ -13,6 +13,11 @@ The project explores the fundamentals of 3D graphics programming, mathematical m
 * Interactive Camera: Explore the simulation using Raylib’s orbital camera controls.
 * Real-Time Animation: Smooth planetary movement using frame-independent time updates.
 
+📷 Preview of the simulation
+
+<img width="1183" height="789" alt="Screenshot 2026-11-13 at 9 49 57 PM" src="https://github.com/user-attachments/assets/076c2784-fc6e-43b9-aa3a-ea4562af3053" />
+
+
 🛠️ Technologies Used
 
 * C - Core programming language.
